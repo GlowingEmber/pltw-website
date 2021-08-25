@@ -34,27 +34,20 @@
 	}
 </script>
 <main>
-	<h2>PLTW EDD Suggestions</h2>
-	<div id="form-container" style={sent ? 'opacity: 0' : 'opacity:1'}>
+	<ul>
+		<li><a href="#home">Home</a></li>
+		<li><a href="#news">Resources</a></li>
+		<li><a href="#contact">Completed</a></li>
+		<li><a href="#contact">Work in Progress</a></li>
+		<li><a href="#contact">Blog</a></li>
+	  </ul>
+	<h1>Ethan Hopkins</h1>
+	<div id="form-container">
 	<h4 style="color: gray;">Have a suggestion for the class? Leave a comment here!</h4>
+	<div>
+		<img src="">
+	</div>
 	<table>
-		<tr>
-			<input
-			type="text" 
-			bind:value={name}
-			placeholder="Full Name"
-			class="nameArea"
-		/>
-		</tr>
-		<tr>
-			<textarea
-			rows="5"
-			type="text" 
-			bind:value={message}
-			placeholder="I suggest that..."
-			class="inputArea"
-		/>
-		</tr>
 		<tr>
 			<button class="questionButton" id="button1" on:click={importanceCalc}>{myVote}</button>
 		</tr>
@@ -62,15 +55,6 @@
 			<button class="Send" on:click={send}>Send for {importance} consideration</button>
 		</tr>
 	</table>
-	</div>
-	<div id="form-container" style={sent ? 'opacity: 1' : 'opacity:0'}>
-		<p>{thankYou}</p>
-		{#if votedEthan == true} 
-		<h4>Voter feedback is my #1 priority!</h4>
-		{:else}
-		<h4>I appreciate the feedback!</h4>
-		{/if}
-		<button class="Send" on:click={redo}>Send Another Message</button>
 	</div>
 
 	<footer
@@ -89,6 +73,36 @@
 
 
 <style>
+	ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #EEF2F5;
+  border-radius: 5px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: gray;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+li a:hover:not(.active) {
+  background-color: rgb(241, 245, 255);
+}
+
+.active {
+  background-color: #04AA6D;
+}
+
 	a, a:hover {
 		color: gray;
 		text-decoration: none;
@@ -171,8 +185,11 @@
 		max-width: 240px;
 		margin: 0 auto;
 	}
-
 	h1 {
+		font-size: 4em;
+		font-weight: 200;
+	}
+	h2 {
 		color: #ff3e00;
 		text-transform: uppercase;
 		font-size: 4em;
