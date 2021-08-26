@@ -57,7 +57,7 @@
 				<div>
 					<h3 style="font-size: 0.8em; padding-bottom: 15px; padding-top: 15pt">Class Resource</h3>
 					<h4>SAMOHI Engineering Website</h4>
-					<a href="https://github.com/glowingember" style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">View Engineering Website</a>
+					<a href="https://samohiengineering.com" style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">View Engineering Website</a>
 					<br>
 					<br>
 					<hr />
