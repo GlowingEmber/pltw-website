@@ -16,7 +16,7 @@
 	<div class="pad-sides">
 				<div>
 					<h3 style="font-size: 0.8em; padding-bottom: 15px; padding-top: 15pt">External Resource</h3>
-					<h4>Visual Studio Code</h4>
+					<h4>Visual Studio Code (IDE)</h4>
 					<a href="https://replit.com/" style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">View VS Code Website</a>
 					<br>
 					<br>
@@ -24,7 +24,7 @@
 				</div>
 				<div>
 					<h3 style="font-size: 0.8em; padding-bottom: 15px; padding-top: 15pt">External Resource</h3>
-					<h4>Replit Online Code Editor</h4>
+					<h4>Replit (Online Code Editor)</h4>
 					<a href="https://replit.com/" style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">View Replit Website</a>
 					<br>
 					<br>
@@ -32,7 +32,7 @@
 				</div>
 				<div>
 					<h3 style="font-size: 0.8em; padding-bottom: 15px; padding-top: 15pt">External Resource</h3>
-					<h4>Blender Software</h4>
+					<h4>Blender (3d modeling software)</h4>
 					<a href="https://www.blender.org/" style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">View Blender Website</a>
 					<br>
 					<br>
@@ -40,7 +40,7 @@
 				</div>
 				<div>
 					<h3 style="font-size: 0.8em; padding-bottom: 15px; padding-top: 15pt">External Resource</h3>
-					<h4>Ethan (GlowingEmber) on GitHub</h4>
+					<h4>Ethan on GitHub</h4>
 					<a href="https://github.com/glowingember" style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">View GitHub Profile</a>
 					<br>
 					<br>
