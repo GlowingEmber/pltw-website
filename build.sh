@@ -1,1 +1,0 @@
-scp -r ./public ./docs
