@@ -49,7 +49,8 @@
 				<div>
 					<h3 style="font-size: 0.8em; padding-bottom: 15px; padding-top: 15pt">Class Resource</h3>
 					<h4>PLTW Engineering Design and Development Syllabus</h4>
-					<a href="static/pltw-edd-syllabus.pdf" download style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">Download Syllabus</a>
+					<!-- <a href="./static/pltw-edd-syllabus.pdf" download style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">Download Syllabus</a> -->
+					<a href="https://github.com/glowingember" download style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">Download Syllabus</a>
 					<br>
 					<br>
 					<hr />
