@@ -63,6 +63,30 @@
 					<br>
 					<hr />
 				</div>
+				<div>
+					<h3 style="font-size: 0.8em; padding-bottom: 15px; padding-top: 15pt">Class Resource | Added September 12, 2021</h3>
+					<h4>SAMOHI Engineering Instagram</h4>
+					<a target="_blank" href="https://www.instagram.com/samohipltw" style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">View Engineering Instagram</a>
+					<br>
+					<br>
+					<hr />
+				</div>
+				<div>
+					<h3 style="font-size: 0.8em; padding-bottom: 15px; padding-top: 15pt">Class Resource | Added September 12, 2021</h3>
+					<h4>SAMOHI Engineering Facebook</h4>
+					<a target="_blank" href="https://www.facebook.com/pltw.samohi" style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">View Engineering Facebook</a>
+					<br>
+					<br>
+					<hr />
+				</div>
+				<div>
+					<h3 style="font-size: 0.8em; padding-bottom: 15px; padding-top: 15pt">Class Resource | Added September 12, 2021</h3>
+					<h4>SAMOHI Engineering Twitter</h4>
+					<a target="_blank" href="https://twitter.com/samoengineering" style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">View Engineering Twitter</a>
+					<br>
+					<br>
+					<hr />
+				</div>
 			
 	</div>
 </div>

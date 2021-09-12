@@ -15,6 +15,15 @@
 <div class="pad-top">
 	<div class="pad-sides">
 				<div>
+					<h3 style="font-size: 0.8em; padding-bottom: 15px; padding-top: 15pt">September 12, 2021</h3>
+					<h4>Welcome back to the blog y'all</h4>
+					<p style="padding-bottom: 10px; color: gray;">Blog post after the Ethics in Engineering project and debate</p>
+					<h4>Blog #2</h4>
+					<p style="padding-bottom: 10px; color: gray;">I learned that there's always a way to defend the indefensible. In the movie Monsters, Inc., the CEO clearly was 'evil' and was portrayed as the villain. Obviously he's a villain, he's kidnapping children! Regardless, I was able to successfully make a strong case to defend the CEO's actions by citing the economy, jobs, the efficiency of the energy, and the work satisfaction of employees, reminiscent of many PR stunts by top CEOs. This shows how in real life, even the most immoral and terrible people can get away with corruption and criminal activity by having a great PR and/or legal team. Money buys freedom and popularity!</p>
+					<p style="padding-bottom: 10px; color: gray;">On an unrelated note, I've been working on college apps and attempting to keep up with schoolwork. I also just registered to vote! I can't vote in the upcoming gubernatorial recall election, but I can in the midterms next year.</p>
+					<hr />
+				</div>
+				<div>
 					<h3 style="font-size: 0.8em; padding-bottom: 15px; padding-top: 15pt">August 25, 2021</h3>
 					<h4>Hello Everyone</h4>
 					<p style="padding-bottom: 10px; color: gray;">First blog post after creating the website in SvelteJS!</p>
