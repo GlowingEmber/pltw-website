@@ -20,7 +20,7 @@
 					<p style="padding-bottom: 10px; color: gray;">Blog post after the Ethics in Engineering project and debate</p>
 					<h4>Blog #2</h4>
 					<p style="padding-bottom: 10px; color: gray;">I learned that there's always a way to defend the indefensible. In the movie Monsters, Inc., the CEO clearly was 'evil' and was portrayed as the villain. Obviously he's a villain, he's kidnapping children! Regardless, I was able to successfully make a strong case to defend the CEO's actions by citing the economy, jobs, the efficiency of the energy, and the work satisfaction of employees, reminiscent of many PR stunts by top CEOs. This shows how in real life, even the most immoral and terrible people can get away with corruption and criminal activity by having a great PR and/or legal team. Money buys freedom and popularity!</p>
-					<p style="padding-bottom: 10px; color: gray;">On an unrelated note, I've been working on college apps and attempting to keep up with schoolwork. I also just registered to vote! I can't vote in the upcoming gubernatorial recall election, but I can in the midterms next year.</p>
+					<p style="padding-bottom: 10px; color: gray;">On an unrelated note, I've been working on college apps and attempting to keep up with schoolwork. I've been working on a physics website for fun recently, too — I might add it here once it's published.</p>
 					<hr />
 				</div>
 				<div>
