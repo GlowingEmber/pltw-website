@@ -29,7 +29,7 @@
 
 		<a href="/projects">
 			<h3 class:active-page={page === 'projects'} class="text-margin-right inline weight-normal">
-				Projects
+				Completed Projects
 			</h3>
 		</a>
 	</div>

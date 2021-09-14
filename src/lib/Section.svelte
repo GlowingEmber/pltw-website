@@ -1,5 +1,6 @@
 <script lang="ts">
 	export let title;
+	export let imageURL;
 
 </script>
 
@@ -8,7 +9,7 @@
 		<h3>{title}</h3>
 		<slot name="text" />
 	</div>
-	<img class="featuresImage" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Circle_-_black_simple.svg/2048px-Circle_-_black_simple.svg.png" alt="Safety">
+	<img class="featuresImage" src={imageURL} alt="Safety">
 </div>
 
 <style>
