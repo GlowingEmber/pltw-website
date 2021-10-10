@@ -23,4 +23,7 @@
 		width: 90%;
 		margin: auto;
 	}
+	img {
+		border-radius: 50%;
+	}
 </style>
