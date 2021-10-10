@@ -13,7 +13,21 @@
 	</div>
 </div>
 
-<div class="project">
+<div class="project" id="powerStrip">
+	<h2>Power Strip: Simple Solution Project</h2>
+	<h3 style="text-align: center; font-size: 0.8em; padding-bottom: 15px; padding-top: 15px">Project Added October 9, 2021</h3>
+	<br>
+	<p style="margin: auto;">I created an analysis of the history, use, and recent upgrades of the Power Strip for our Individual Research Project.</p>
+	<br>
+	<div class="align">
+		<h4>Video Presentation</h4>
+		<a target="_blank" href="https://watch.screencastify.com/v/2C7aXOqDiWlcveWKKcGn" style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">View Media</a>
+		<br>
+		<br>
+	</div>
+</div>
+<hr />
+<div class="project" id="engineeringEthics">
 	<h2>Ethics in Engineering</h2>
 	<h3 style="text-align: center; font-size: 0.8em; padding-bottom: 15px; padding-top: 15px">Project Added September 13, 2021</h3>
 	<br>
