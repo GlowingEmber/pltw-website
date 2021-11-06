@@ -15,10 +15,9 @@
 
 <div class="project" id="halloween">
 	<h2>Halloween Mini Project</h2>
+	<h3 style="text-align: center; font-size: 0.8em; padding-bottom: 15px; padding-top: 15px">Project Added November 5, 2021</h3>
 	<br>
 	<p style="margin: auto;">Our device was based on the literary trope of 'dead girls in fridges,' which fits the Halloween theme. Our cardboard fridge opens on intervals and flashes randomized red lights while the door is open!</p>
-	<br>
-	<h3 style="text-align: center; font-size: 0.8em; padding-bottom: 15px; padding-top: 15px">Project Added November 6, 2021</h3>
 	<br>
 	<div class="align">
 		<h4>Refrigerator: Device Image</h4>
