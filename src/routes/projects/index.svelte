@@ -13,6 +13,45 @@
 	</div>
 </div>
 
+<div class="project" id="halloween">
+	<h2>Halloween Mini Project</h2>
+	<br>
+	<p style="margin: auto;">Our device was based on the literary trope of 'dead girls in fridges,' which fits the Halloween theme. Our cardboard fridge opens on intervals and flashes randomized red lights while the door is open!</p>
+	<br>
+	<h3 style="text-align: center; font-size: 0.8em; padding-bottom: 15px; padding-top: 15px">Project Added November 6, 2021</h3>
+	<br>
+	<div class="align">
+		<h4>Refrigerator: Device Image</h4>
+		<a target="_blank" href="/tropeproject.png" style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">View Media</a>
+		<br>
+		<br>
+	</div>
+	<div class="align">
+		<h4>Refrigerator: Device Video</h4>
+		<a target="_blank" href="/tropeproject.png" style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">View Media</a>
+		<br>
+		<br>
+	</div>
+	<div class="align">
+		<h4>Project Poster</h4>
+		<a target="_blank" href="https://docs.google.com/presentation/d/1KNbQaHohC8WoTVQ65wj5SDifN53LCVh6azO1F9Nf4QA/edit?usp=sharing" style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">View Poster</a>
+		<br>
+		<br>
+	</div>
+	<div class="align">
+		<h4>Progress Presentation #1</h4>
+		<a target="_blank" href="https://docs.google.com/presentation/d/1_bLEnpyvcQO6EqMZDPgbeJZ8sBMkk8EqOkCTRFRFhiU/edit?usp=sharing" style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">View Slides</a>
+		<br>
+		<br>
+	</div>
+	<div class="align">
+		<h4>Progress Presentation #2</h4>
+		<a target="_blank" href="https://docs.google.com/presentation/d/1GKerrmz__LPKMRWwFLhhm4dKRj2rp47StxHFnozPB2o/edit?usp=sharing" style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">View Slides</a>
+		<br>
+		<br>
+	</div>
+</div>
+<hr />
 <div class="project" id="powerStrip">
 	<h2>Power Strip: Simple Solution Project</h2>
 	<h3 style="text-align: center; font-size: 0.8em; padding-bottom: 15px; padding-top: 15px">Project Added October 9, 2021</h3>
