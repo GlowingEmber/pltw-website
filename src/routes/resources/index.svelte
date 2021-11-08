@@ -40,8 +40,8 @@
 				</div>
 				<div>
 					<h3 style="font-size: 0.8em; padding-bottom: 15px; padding-top: 15pt">External Resource</h3>
-					<h4>Ethan on GitHub</h4>
-					<a target="_blank" href="https://github.com/glowingember" style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">View GitHub Profile</a>
+					<h4>This Project on GitHub</h4>
+					<a target="_blank" href="https://github.com/GlowingEmber/pltw-website" style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">View GitHub Repository</a>
 					<br>
 					<br>
 					<hr />
