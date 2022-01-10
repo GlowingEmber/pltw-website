@@ -15,6 +15,20 @@
 <div class="pad-top">
 	<div class="pad-sides">
 				<div>
+					<h3 style="font-size: 0.8em; padding-bottom: 15px; padding-top: 15pt">January 9, 2021</h3>
+					<h4>Applying to college = brain melt</h4>
+					<p style="padding-bottom: 10px; color: gray;">'Applying to College: What you wish someone would have told you'</p>
+					<h4>Blog #4</h4>
+					<p style="padding-bottom: 10px; color: gray;">You know that feeling when you get slammed in the head with a frying pan? I can't say that I've experienced it personally, but I'm sure it sums up my experience with college apps. If I somehow had a magical power to give my Junior self advice, I would suggest to focus on making essays 1) funny, 2) personable, and 3) unique, rather than trying to write ~ perfectly ~. A well-written-but-boring essay is still boring!</p>
+					<p style="padding-bottom: 10px; color: gray;">Side note: In the off chance that a Junior is reading this, make sure to finish your Personal Statement by the end of the summer before your senior year! The process is mind-numbingly monotonous and long, so start early.</p>
+					<p style="padding-bottom: 10px; color: gray;">I can't say I'm thrilled to wait for college results to come out — I have at least three months of waiting for that. But afterwards (hopefully at one of my top choices), I'm just excited to meet new people and (pretty much) start a new life.</p>
+					<p style="padding-bottom: 10px; color: gray;">I'm including the following gif because it's sort of cool/funny if you get it, confusing/sad/unfunny if you don't, and completely random — exactly like college admissions!</p>
+					<img style="width: 200px;" src="https://c.tenor.com/eVYmZkjPMn0AAAAM/roblox-mfs.gif" alt="honestly idk" />
+					<br>
+
+					<hr />
+				</div>
+				<div>
 					<h3 style="font-size: 0.8em; padding-bottom: 15px; padding-top: 15pt">November 5, 2021</h3>
 					<h4>Yo, how's it going Ms. Snyder?</h4>
 					<p style="padding-bottom: 10px; color: gray;">Blog post after the Halloween project</p>
