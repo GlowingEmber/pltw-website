@@ -27,7 +27,7 @@
 	</div>
 	<div class="align">
 		<h4>Refrigerator: Device Video</h4>
-		<a target="_blank" href="/tropeproject.png" style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">View Media</a>
+		<a target="_blank" href="https://drive.google.com/file/d/1o6yizUIJ_2lYWH1jGZ2zKCeC3acyi3mi/view?usp=sharing" style="font-weight: bold; font-size: 30px; padding-top: 25px; padding-bottom: 25px; color: #388eff;">View Media</a>
 		<br>
 		<br>
 	</div>
