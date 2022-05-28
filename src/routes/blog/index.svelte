@@ -15,7 +15,35 @@
 <div class="pad-top">
 	<div class="pad-sides">
 				<div>
-					<h3 style="font-size: 0.8em; padding-bottom: 15px; padding-top: 15pt">January 9, 2021</h3>
+					<h3 style="font-size: 0.8em; padding-bottom: 15px; padding-top: 15pt">May 27, 2022</h3>
+					<h4>reviewing my PLTW career</h4>
+					<p style="padding-bottom: 10px; color: gray;">spoiler alert: building stuff was the best part</p>
+					<h4>Blog #6</h4>
+					<p style="padding-bottom: 10px; color: gray;">Okay I need to preface this by saying that Mrs. Snyder was one of the best parts of PLTW at SAMOHI.</p>
+					<p style="padding-bottom: 10px; color: gray;">Now that that's out of the way, I'm most proud of our semester-long capstone project from PLTW EDD! Why, you might ask?</p>
+					<p style="padding-bottom: 10px; color: gray;">A few reasons! One, we put WAY too much effort in (btw shoutout to my group — Kim, Theo, and MJ — because they are badass). Two, I remembered that school can be ACTUALLY REALLY FUN!</p>
+					<p style="padding-bottom: 10px; color: gray;">Especially coming out of the pandemic where all we did was stare at a screen for 1.5 years straight, I was dying to work on something physical. I had so much fun sawing, cutting, screwing, measuring, remeasuring, cutting again because we screwed up originally, completely redesigning, painting, cutting, screwing, and completing our project!</p>
+					<p style="padding-bottom: 10px; color: gray;">It was such a stark break from just solving equations on paper like in the rest of my classes! So yes, my advice to future PLTW EDD students would be to 1) pick projects that you would find REALLY FUN TO BUILD (not merely an interesting idea), 2) find a DEDICATED GROUP that you connect with, and 3) have fun! (#3 is imperative!) </p>
+					<br>
+
+					<hr />
+				</div>
+				<div>
+					<h3 style="font-size: 0.8em; padding-bottom: 15px; padding-top: 15pt">May 27, 2022</h3>
+					<h4>and i'm going to... UCLA!</h4>
+					<p style="padding-bottom: 10px; color: gray;">it was a rough journey!</p>
+					<h4>Blog #5</h4>
+					<p style="padding-bottom: 10px; color: gray;">I will be attending UCLA for computer science next year! Okay, rainbows and confetti aside, UCLA was not my top choice originally... in fact, I'd always hoped to get out of Los Angeles — I dreamed of tons of rain, decent public transit, and/or a completely new city.</p>
+					<p style="padding-bottom: 10px; color: gray;">Although my dream school (UC Berkeley) didn't work out, I'm confident I'll meet tons of great friends at UCLA! </p>
+					<p style="padding-bottom: 10px; color: gray;">Oh yeah, and majoring in computer science seems like the obvious path because it's the most flexible with employment afterwards! My goal is to eventually work as a software engineer for a tech company like Google/Apple or at an aerospace company like NASA/SpaceX.</p>
+					<p style="padding-bottom: 10px; color: gray;">It's a tough decision, though! Seems like the larger tech companies have a significantly better work-life balance and compensation while building rockets actually helps the world and advances humanity (and is WAYYY cooler).</p>
+
+					<br>
+
+					<hr />
+				</div>
+				<div>
+					<h3 style="font-size: 0.8em; padding-bottom: 15px; padding-top: 15pt">January 9, 2022</h3>
 					<h4>Applying to college = brain melt</h4>
 					<p style="padding-bottom: 10px; color: gray;">'Applying to College: What you wish someone would have told you'</p>
 					<h4>Blog #4</h4>

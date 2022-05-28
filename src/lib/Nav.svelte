@@ -15,12 +15,6 @@
 			</h3>
 		</a>
 
-		<a href="/wip">
-			<h3 class:active-page={page === 'wip'} class="text-margin-right inline weight-normal">
-				Work in Progress
-			</h3>
-		</a>
-
 		<a href="/blog">
 			<h3 class:active-page={page === 'blog'} class="text-margin-right inline weight-normal">
 				Blog
@@ -32,6 +26,13 @@
 				Completed Projects
 			</h3>
 		</a>
+
+		<a href="/capstone-project">
+			<h3 class:active-page={page === 'capstone-project'} class="text-margin-right inline weight-normal">
+				Capstone Project
+			</h3>
+		</a>
+		
 	</div>
 </span>
 

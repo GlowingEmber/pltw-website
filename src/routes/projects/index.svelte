@@ -12,7 +12,6 @@
 		</div>
 	</div>
 </div>
-
 <div class="project" id="halloween">
 	<h2>Halloween Mini Project</h2>
 	<h3 style="text-align: center; font-size: 0.8em; padding-bottom: 15px; padding-top: 15px">Project Added November 5, 2021</h3>
