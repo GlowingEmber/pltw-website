@@ -34,7 +34,7 @@
 					<p style="padding-bottom: 10px; color: gray;">it was a rough journey!</p>
 					<h4>Blog #5</h4>
 					<p style="padding-bottom: 10px; color: gray;">I will be attending UCLA for computer science next year! Okay, rainbows and confetti aside, UCLA was not my top choice originally... in fact, I'd always hoped to get out of Los Angeles — I dreamed of tons of rain, decent public transit, and/or a completely new city.</p>
-					<p style="padding-bottom: 10px; color: gray;">Although my dream school (UC Berkeley) didn't work out, I'm confident I'll meet tons of great friends at UCLA! </p>
+					<p style="padding-bottom: 10px; color: gray;">Although my dream school (UC Berkeley) didn't work out, I'm confident I'll meet tons of great friends at UCLA! Truthfully, however, I'm pretty sad to leave all the wonderful people at SAMOHI.</p>
 					<p style="padding-bottom: 10px; color: gray;">Oh yeah, and majoring in computer science seems like the obvious path because it's the most flexible with employment afterwards! My goal is to eventually work as a software engineer for a tech company like Google/Apple or at an aerospace company like NASA/SpaceX.</p>
 					<p style="padding-bottom: 10px; color: gray;">It's a tough decision, though! Seems like the larger tech companies have a significantly better work-life balance and compensation while building rockets actually helps the world and advances humanity (and is WAYYY cooler).</p>
 
