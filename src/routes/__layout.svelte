@@ -4,7 +4,7 @@
 
 	import { page, navigating } from '$app/stores';
 
-	$: section = $page.path.split('/')[1];
+	$: section = $page.url.pathname.split('/')[1];
 </script>
 
 <Nav page={section} />
